@@ -11,6 +11,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=lightt)
 
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=b82v1p9okjevvai9oy0qs81q6&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" /></div>  
+
 ---
 [![](https://visitcount.itsvg.in/api?id=itsantoniolpzz&icon=2&color=5)](https://visitcount.itsvg.in)
 
